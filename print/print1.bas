@@ -1,0 +1,8 @@
+CLS
+PRINT "Hello World"
+PRINT 3+5
+PRINT 3*5
+PRINT 6/2
+PRINT 6-2
+PRINT 3 + 2*5
+PRINT (3+2)*5
